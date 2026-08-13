@@ -334,11 +334,6 @@ Relevant coursework: Deep Learning, Information Retrieval, Artificial Intelligen
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kearakha&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=00000000&title_color=1F6FEB&icon_color=1F6FEB&text_color=768390&border_color=30363D" height="180" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kearakha&layout=compact&langs_count=8&bg_color=00000000&title_color=1F6FEB&text_color=768390&border_color=30363D" height="180" alt="Top languages" />
-
-<br /><br />
-
 <img src="https://streak-stats.demolab.com?user=kearakha&background=00000000&border=30363D&stroke=30363D&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&sideLabels=768390&currStreakNum=768390&sideNums=768390&dates=768390&excludeDaysLabel=768390" alt="Streak stats" />
 
 </div>
