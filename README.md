@@ -24,9 +24,9 @@
 
 ## About
 
-I am a 7th-semester Informatics Engineering student at Dian Nuswantoro University who builds backend and fullstack systems that go into actual use. Most of my production work sits inside a faculty-scale academic system at Bengkel Koding, where I shipped the entire Thesis domain — quota plotting, submission flow, monitoring, logbook recaps, reporting — on Laravel 11 with a Next.js frontend on top of it. Alongside that I work on applied machine learning for Indonesian text: hoax classification, multi-label polarization detection, and retrieval-augmented generation over Indonesian news. I care about systems that hold up under real data and real users, not demos.
+I am a 7th-semester Informatics Engineering student at Dian Nuswantoro University who builds backend and fullstack systems that go into actual use. Most of my production work sits inside a faculty-scale academic system at Bengkel Koding, where I shipped the entire Thesis domain quota plotting, submission flow, monitoring, logbook recaps, reporting on Laravel 11 with a Next.js frontend on top of it. Alongside that I work on applied machine learning for Indonesian text: hoax classification, multi-label polarization detection, and retrieval-augmented generation over Indonesian news. I care about systems that hold up under real data and real users, not demos.
 
-**Open To** — backend, fullstack, and AI engineering internships and entry-level roles.
+**Open To** backend, fullstack, and AI engineering internships and entry-level roles.
 
 ---
 
@@ -101,7 +101,7 @@ I am a 7th-semester Informatics Engineering student at Dian Nuswantoro Universit
 
 | Area | Level | What I've Built |
 | :--- | :--- | :--- |
-| Backend Engineering | Intermediate | Thesis domain of a faculty-scale academic system at Bengkel Koding — 46 controllers, 42 service classes on Laravel 11 / PHP 8.2 / MySQL |
+| Backend Engineering | Intermediate | Thesis domain of a faculty-scale academic system at Bengkel Koding 46 controllers, 42 service classes on Laravel 11 / PHP 8.2 / MySQL |
 | Multi-Tenant Architecture | Intermediate | Study-program data isolation inside one shared academic system; [laris](https://github.com/kearakha/laris) multi-branch F&B SaaS; multi-tenant subdomain routing in [cus.site](https://github.com/kearakha/cus.site) |
 | Fullstack Web | Intermediate | Next.js frontend with 13 route groups and 3 roles consuming Laravel REST APIs; [fineiro](https://github.com/kearakha/fineiro) React + Node.js + FastAPI |
 | Applied ML for Indonesian NLP | Intermediate | Hoax classification at 0.91 F1; SemEval 2026 Task 9 multi-label polarization detection at 0.512 Macro F1 |
@@ -112,11 +112,11 @@ I am a 7th-semester Informatics Engineering student at Dian Nuswantoro Universit
 ## Featured Projects
 
 <details>
-<summary><b>cus.site</b> — instant website generator for Indonesian small businesses</summary>
+<summary><b>cus.site</b> instant website generator for Indonesian small businesses</summary>
 
 <br />
 
-A shop owner completes a 5-step wizard covering business name, category, products, and photos. An OpenAI-compatible LLM (currently Gemini) generates the site copy — headline, product descriptions, SEO text — and the site goes live on its own subdomain (`namausaha.cus.site`), served by a single multi-tenant Next.js app. Three visual vibes are available: Casual, Professional, and Elegant. Owners log back in through an emailed magic link to edit the site at any time.
+A shop owner completes a 5-step wizard covering business name, category, products, and photos. An OpenAI-compatible LLM (currently Gemini) generates the site copy headline, product descriptions, SEO text and the site goes live on its own subdomain (`namausaha.cus.site`), served by a single multi-tenant Next.js app. Three visual vibes are available: Casual, Professional, and Elegant. Owners log back in through an emailed magic link to edit the site at any time.
 
 | | |
 | :--- | :--- |
@@ -128,7 +128,7 @@ A shop owner completes a 5-step wizard covering business name, category, product
 </details>
 
 <details>
-<summary><b>laris</b> — multi-tenant F&B SaaS</summary>
+<summary><b>laris</b> multi-tenant F&B SaaS</summary>
 
 <br />
 
@@ -144,7 +144,7 @@ A software-as-a-service platform for food and beverage businesses covering queue
 </details>
 
 <details>
-<summary><b>lumen-rag</b> — web layer for a Python RAG service</summary>
+<summary><b>lumen-rag</b> web layer for a Python RAG service</summary>
 
 <br />
 
@@ -160,7 +160,7 @@ The web interface and orchestration layer for a Python retrieval-augmented gener
 </details>
 
 <details>
-<summary><b>agentic-cockpit</b> — local dashboard for Claude Code CLI</summary>
+<summary><b>agentic-cockpit</b> local dashboard for Claude Code CLI</summary>
 
 <br />
 
@@ -176,7 +176,7 @@ A local dashboard that wraps Claude Code CLI headless mode into one-click action
 </details>
 
 <details>
-<summary><b>fineiro</b> — budget planning with spending prediction</summary>
+<summary><b>fineiro</b> budget planning with spending prediction</summary>
 
 <br />
 
@@ -192,7 +192,7 @@ A budget planning app with spending prediction. A standalone Python FastAPI serv
 </details>
 
 <details>
-<summary><b>nft-blockchain</b> — NFT project from UGM blockchain coursework</summary>
+<summary><b>nft-blockchain</b> NFT project from UGM blockchain coursework</summary>
 
 <br />
 
@@ -242,7 +242,7 @@ Indonesian hoax classification using TF-IDF n-gram features with a GridSearchCV-
 </details>
 
 <details>
-<summary><b>Multi-label Polarization Detection — SemEval 2026 Task 9</b></summary>
+<summary><b>Multi-label Polarization Detection SemEval 2026 Task 9</b></summary>
 
 <br />
 
@@ -260,18 +260,18 @@ Five-label multi-label classification where the gains came from threshold and lo
 
 ## Experience
 
-### Bengkel Koding — Jan 2025 to Present
+### Bengkel Koding Jan 2025 to Present
 
 **Backend Developer & Lead of Web Developer Division**
 
-- Shipped the Thesis domain end-to-end for a faculty-scale academic system: lecturer quota plotting, submission flow, thesis monitoring, logbook recaps, and PDF generation — 46 controllers and 42 service classes on Laravel 11, PHP 8.2, and MySQL.
+- Shipped the Thesis domain end-to-end for a faculty-scale academic system: lecturer quota plotting, submission flow, thesis monitoring, logbook recaps, and PDF generation 46 controllers and 42 service classes on Laravel 11, PHP 8.2, and MySQL.
 - Implemented multi-tenant data isolation so each study program accesses only its own data within one shared system, eliminating cross-program data leakage.
 - Built an Early Warning System that flags at-risk students using 5 risk indicators derived from roughly 10 years of historical academic records.
 - Delivered Excel and PDF reporting with Laravel Excel, consumed directly by faculty staff.
 - Delivered the Next.js frontend: 13 route groups and 3 roles, consuming the Laravel REST APIs.
 - Led a 19-person Web Developer division across multiple concurrent projects.
 
-**Teaching Assistant** — Jan 2026 to Aug 2026
+**Teaching Assistant** Jan 2026 to Aug 2026
 
 - Mentored 30+ students in a Web Developer Class covering PHP and Laravel fundamentals.
 
@@ -288,13 +288,13 @@ Five-label multi-label classification where the gains came from threshold and lo
 
 ## Education
 
-### Dian Nuswantoro University — B.Sc. Computer Science
+### Dian Nuswantoro University B.Sc. Computer Science
 
 Sep 2023 – Jun 2027 · Semarang, Indonesia · **GPA 3.87 / 4.00**
 
 Relevant coursework: Software Engineering, Database Systems, Algorithms & Data Structures, Data Mining, Machine Learning, Operating Systems, Computer Networks.
 
-### Gadjah Mada University — Student Exchange
+### Gadjah Mada University Student Exchange
 
 Aug 2025 – Dec 2025 · Yogyakarta, Indonesia · **GPA 3.83 / 4.00**
 
@@ -316,7 +316,7 @@ Relevant coursework: Deep Learning, Information Retrieval, Artificial Intelligen
 <img src="https://img.shields.io/badge/CCNA%3A%20Introduction%20to%20Networks-0A2540?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA Introduction to Networks" />
 </p>
 
-**Digital Talent Scholarship — Kominfo**
+**Digital Talent Scholarship Kominfo**
 
 <p>
 <img src="https://img.shields.io/badge/Associate%20Data%20Scientist-0A2540?style=for-the-badge&logo=python&logoColor=white" alt="Associate Data Scientist" />
@@ -396,7 +396,7 @@ open_to:
 
 <div align="center">
 
-Open to backend, fullstack, and AI engineering roles — reach out if you are building something that has to work in production.
+Open to backend, fullstack, and AI engineering roles reach out if you are building something that has to work in production.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0A2540&height=120&section=footer" width="100%" alt="" />
 
