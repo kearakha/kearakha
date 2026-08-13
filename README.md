@@ -350,15 +350,15 @@ Relevant coursework: Deep Learning, Information Retrieval, Artificial Intelligen
 
 ---
 
-## Contribution Snake
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kearakha/kearakha/output/snake.svg" alt="Contribution snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kearakha/kearakha/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kearakha/kearakha/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/kearakha/kearakha/output/snake-light.svg" alt="Contribution snake animation" />
+</picture>
 
 </div>
-
----
 
 ## Current Focus
 
