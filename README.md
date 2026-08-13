@@ -101,9 +101,9 @@ I am a 7th-semester Informatics Engineering student at Dian Nuswantoro Universit
 
 | Area | Level | What I've Built |
 | :--- | :--- | :--- |
-| Backend Engineering | Advanced | Thesis domain of a faculty-scale academic system at Bengkel Koding — 46 controllers, 42 service classes on Laravel 11 / PHP 8.2 / MySQL |
-| Multi-Tenant Architecture | Advanced | Study-program data isolation inside one shared academic system; [laris](https://github.com/kearakha/laris) multi-branch F&B SaaS; multi-tenant subdomain routing in [cus.site](https://github.com/kearakha/cus.site) |
-| Fullstack Web | Advanced | Next.js frontend with 13 route groups and 3 roles consuming Laravel REST APIs; [fineiro](https://github.com/kearakha/fineiro) React + Node.js + FastAPI |
+| Backend Engineering | Intermediate | Thesis domain of a faculty-scale academic system at Bengkel Koding — 46 controllers, 42 service classes on Laravel 11 / PHP 8.2 / MySQL |
+| Multi-Tenant Architecture | Intermediate | Study-program data isolation inside one shared academic system; [laris](https://github.com/kearakha/laris) multi-branch F&B SaaS; multi-tenant subdomain routing in [cus.site](https://github.com/kearakha/cus.site) |
+| Fullstack Web | Intermediate | Next.js frontend with 13 route groups and 3 roles consuming Laravel REST APIs; [fineiro](https://github.com/kearakha/fineiro) React + Node.js + FastAPI |
 | Applied ML for Indonesian NLP | Intermediate | Hoax classification at 0.91 F1; SemEval 2026 Task 9 multi-label polarization detection at 0.512 Macro F1 |
 | Retrieval & RAG | Intermediate | FAISS pipeline over 37,741 passages from Kompas.com; [lumen-rag](https://github.com/kearakha/lumen-rag) orchestration layer |
 
