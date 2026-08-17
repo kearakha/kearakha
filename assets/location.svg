@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="162" height="32" viewBox="0 0 162 32" role="img" aria-label="Jakarta, Indonesia">
+  <rect width="162" height="32" rx="16" fill="#EA580C"/>
+  <path d="M18 9c-2.5 0-4.5 2-4.5 4.5 0 3.4 4.5 9 4.5 9s4.5-5.6 4.5-9C22.5 11 20.5 9 18 9zm0 6.1a1.6 1.6 0 1 1 0-3.2 1.6 1.6 0 0 1 0 3.2z" fill="#ffffff"/>
+  <text x="90.5" y="21" text-anchor="middle" fill="#ffffff"
+        font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="13" font-weight="500" letter-spacing="0.2">Jakarta, Indonesia</text>
+</svg>

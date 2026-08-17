@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="32" viewBox="0 0 70 32" role="img" aria-label="Email">
+  <rect width="70" height="32" rx="16" fill="#9A3412"/>
+  <text x="35" y="21" text-anchor="middle" fill="#ffffff"
+        font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="13" font-weight="500" letter-spacing="0.2">Email</text>
+</svg>
