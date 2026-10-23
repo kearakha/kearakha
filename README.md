@@ -4,7 +4,7 @@
 
 **Fullstack Developer** · Laravel & Next.js · Applied ML for Indonesian NLP
 
-<a href="https://portofoliosrakha.vercel.app"><img src="assets/portfolio.svg" alt="Portfolio" /></a>
+<a href="https://portofolios-rakha.vercel.app"><img src="assets/portfolio.svg" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/rakha-keanura"><img src="assets/linkedin.svg" alt="LinkedIn" /></a>
 <a href="mailto:keanuraka14@gmail.com"><img src="assets/email.svg" alt="Email" /></a>
 <img src="assets/location.svg" alt="Jakarta, Indonesia" />
